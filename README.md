@@ -15,7 +15,6 @@ A beginner-friendly To-Do App built using Python.
 
 ## Future Improvements
 - GUI
-- Dark mode
 - File saving
 - Deadlines
 
